@@ -1,11 +1,11 @@
-# Samantha - Emotional Companinion (Fine Tuning of Mistral 7B Model)
+# Samantha - Emotional Companion (Fine Tuning of Mistral 7B Model)
 
 ## Overview
 
-This project involves fine-tuning a Fine Tuning Mistral-7B for digital companionship, Samantha, a character from the movie Her. Here, we first fine tune the mistral 7b model and then used the fine-tuned model to generate responses or perform another task as defined by the user. The project is structured into scripts for fine-tuning, using the model, and utility functions for dataset and model management.
+This project involves fine-tuning a Fine Tuning Mistral-7B for digital companionship, Samantha, a character from the movie Her. Here, we first fine-tune the mistral 7b model and then used the fine-tuned model to generate responses or perform another task as defined by the user. The project is structured into scripts for fine-tuning, using the model, and utility functions for dataset and model management.
 
 ## Data Used
-This project utilizes the "samantha-data" dataset from Hugging Face, focused on conversational AI in areas like philosophy and psychology. The dataset is structured with training, validation, and testing splits, facilitating a robust training regimen. Explore the dataset [here](https://huggingface.co/datasets/cognitivecomputations/samantha-data).
+This project utilizes the "Samantha-data" dataset from Hugging Face, focused on conversational AI in areas like philosophy and psychology. The dataset is structured with training, validation, and testing splits, facilitating a robust training regimen. Explore the dataset [here](https://huggingface.co/datasets/cognitivecomputations/samantha-data).
 
 
 
